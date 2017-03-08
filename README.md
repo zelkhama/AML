@@ -1,2 +1,0 @@
-# AML
-Algorithmic Machine Learning
